@@ -1,0 +1,8 @@
+.todo__list {
+    display: flex;
+    align-items: center;
+}
+
+.todo__list .MuiSvgIcon-root {
+    margin-right: 100px;
+}
